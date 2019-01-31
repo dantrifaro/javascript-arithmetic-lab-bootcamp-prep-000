@@ -40,8 +40,8 @@ function makeInt(n) {
 
 makeInt();
 
-function preservedeciaml(n) {
+function preservedecimal(n) {
   return parseFloat(n);
 }
 
-preserveDeciaml();
+preserveDecimal();
