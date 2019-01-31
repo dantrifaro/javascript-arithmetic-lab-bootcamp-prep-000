@@ -1,5 +1,7 @@
-var number = 10;
+var a, b;
 
 function add(a, b) {
+  
+  
   number += 5;
 }
