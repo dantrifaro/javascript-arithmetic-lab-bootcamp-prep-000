@@ -40,7 +40,7 @@ function makeInt(n) {
 
 makeInt();
 
-function preservedecimal(n) {
+function preserveDecimal(n) {
   return parseFloat(n);
 }
 
