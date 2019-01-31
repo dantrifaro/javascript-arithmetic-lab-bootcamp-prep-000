@@ -39,3 +39,9 @@ function makeInt(n) {
 }
 
 makeInt();
+
+function preservedeciaml(n) {
+  return parseFloat(n);
+}
+
+preserveDeciaml();
