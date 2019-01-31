@@ -4,20 +4,20 @@ function add(a, b) {
 
 add();
 
-function add(a, b) {
-  return a + b;
+function subtract(a, b) {
+  return a - b;
 }
 
-add();
+subtract();
 
-function add(a, b) {
-  return a + b;
+function multiply(a, b) {
+  return a * b;
 }
 
-add();
+multiply();
 
-function add(a, b) {
-  return a + b;
+function divide(a, b) {
+  return a / b;
 }
 
-add();
+divide();
