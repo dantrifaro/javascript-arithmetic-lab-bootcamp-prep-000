@@ -23,5 +23,7 @@ function divide(a, b) {
 divide();
 
 function inc(n) {
-  return 
+  return a +1;
 }
+
+inc();
